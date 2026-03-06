@@ -1,5 +1,5 @@
-usage:
+## QSDD Abstract
 
-run `main.py`
+[![QSDD Preview](./assets/1_pagae_abstract.png)](./docs/BK_NA_QSDD_for_Modal_abstract.pdf)
 
-modify `input_text` at main.py:112 to make different disturbance# Quantum-Spin-Drift-Diffusion
+Click the preview image to open the PDF.
